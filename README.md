@@ -1,3 +1,3 @@
 # gingerbread_click_pygame
 
-A Clone Of Cookie Clicker Made In Pygame
+A Basic Clone Of Cookie Clicker Made In Pygame
